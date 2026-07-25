@@ -74,7 +74,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shibivarshan&style=for-the-badge&color=ff5fa2" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=shibivarshan&style=for-the-badge&color=00d4ff" alt="Profile views" />
 </p>
 
 <div align="center">
